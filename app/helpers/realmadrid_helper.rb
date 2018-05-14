@@ -1,0 +1,2 @@
+module RealmadridHelper
+end
