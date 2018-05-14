@@ -10,4 +10,7 @@ class MancityController < ApplicationController
 
   def ederson
   end
+
+  def all
+  end
 end

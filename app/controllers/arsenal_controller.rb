@@ -10,4 +10,5 @@ class ArsenalController < ApplicationController
 
   def lacazette
   end
+
 end
